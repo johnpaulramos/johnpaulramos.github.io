@@ -4,7 +4,7 @@ This is my home page! My name is John Ramos and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/johnpaulramos.
+My GitHub page is [johnpaulramos](http://github.com/johnpaulramos).
 
 ### CPSC 120
 
